@@ -17,11 +17,20 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 ### Sessional 2 Syllabus:
 
 ```sh
-String Instructions
-Branching Instructions
-Procedures and Macros
-8255 PPI
-Interrupts
+1. String Instructions
+2. Branching Instructions
+3. Procedures and Macros
+4. 8255 PPI
+5. Interrupts
+```
+
+### Last Quiz Syllabus:
+
+```sh
+1. String Instructions: MOVSB, MOVSW, LODSB, LODSW, STOSB, STOSW, SCASB, SCASW, CMPSB, CMPSW
+2. String Prefix Instructions: REP, REPZ, REPNZ
+3. LOOP Label: LOOP, LOOPZ, LOOPNZ
+4. Branching: Near Branch & Far Branch, Conditional & Unconditional Jump, Call and Return Instructions
 ```
 
 ## 8086 Documentation:
