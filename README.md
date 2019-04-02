@@ -14,6 +14,10 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 
 - [Assembler Directives of 8086](https://www.ukessays.com/essays/engineering/assembler-directive-of-8086-microprocessor.php)
 
+## 8086 Documentation:
+
+- Download Documentation folder and open `index.html`
+
 ## Books:
 
 - Douglas V.Hall
