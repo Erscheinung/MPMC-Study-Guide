@@ -24,7 +24,7 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 5. Interrupts
 ```
 
-### Last Quiz Syllabus:
+### Quiz 4 Syllabus:
 
 ```sh
 1. String Instructions: MOVSB, MOVSW, LODSB, LODSW, STOSB, STOSW, SCASB, SCASW, CMPSB, CMPSW
