@@ -41,5 +41,5 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 
 - Douglas V.Hall
 - N.B.Bahadure
-
+- Barry.B.Brey (Included as `intel_book.pdf`
 
