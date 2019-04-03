@@ -10,10 +10,6 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [8086 Microprocessor Complete Tutorials](https://www.youtube.com/playlist?list=PLc21Sqj4D8SSRpPFZLL6XvS7aGFs3HQ4H)
 - [8086 Microprocessor](https://www.youtube.com/playlist?list=PL3CV6a8uJdgYSFq8n_6kvTMe7m2PCKGfs)
 
-## Topic Wise articles (in progress):
-
-- [Assembler Directives of 8086](https://www.ukessays.com/essays/engineering/assembler-directive-of-8086-microprocessor.php)
-
 ### Sessional 2 Syllabus:
 
 ```sh
@@ -24,22 +20,32 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 5. Interrupts
 ```
 
-### Quiz 4 Syllabus:
+## Topic Wise articles (in progress/currently Sessional 2 only):
 
-```sh
-1. String Instructions: MOVSB, MOVSW, LODSB, LODSW, STOSB, STOSW, SCASB, SCASW, CMPSB, CMPSW
-2. String Prefix Instructions: REP, REPZ, REPNZ
-3. LOOP Label: LOOP, LOOPZ, LOOPNZ
-4. Branching: Near Branch & Far Branch, Conditional & Unconditional Jump, Call and Return Instructions
-```
+- [String Instructions (GeeksForGeeks)](https://www.geeksforgeeks.org/string-manipulation-instructions-8086-microprocessor/)
+- [Assembler Directives of 8086](https://www.ukessays.com/essays/engineering/assembler-directive-of-8086-microprocessor.php)
+- [Jump/Branch instructions](http://8086pro.blogspot.com/2010/08/jump-branch-instructions.html)
+- [Procedures](https://www.tutorialspoint.com/assembly_programming/assembly_procedures.htm)
+- [Macros](https://www.tutorialspoint.com/assembly_programming/assembly_macros.htm)
+- [8255 PPI(GeeksForGeeks)](https://www.geeksforgeeks.org/programmable-peripheral-interface-8255/)
+- [8255 PPI(TutorialsPoint)](https://www.tutorialspoint.com/microprocessor/microprocessor_intel_8255a_programmable_peripheral_interface.htm)
+- [Interrupts](https://www.tutorialspoint.com/microprocessor/microprocessor_8086_interrupts.htm)
 
-## 8086 Documentation:
+## [Recommended!] 8086 Documentation (emu8086):
 
-- Download Documentation folder and open `index.html`
+- Open `emu8086 Guide` Folder and open `index.html`
+
+## Miscellaneous:
+
+- [Complete Instruction Set](https://www.tutorialspoint.com/microprocessor/microprocessor_8086_instruction_sets.htm)
+
+## Lab Programs:
+
+- [Lab File Programs GDrivelink](https://drive.google.com/file/d/1Fp4B4Rhng4_bpR-exmP77kkvFFW8bDli/view?usp=sharing)
 
 ## Books:
 
 - Douglas V.Hall
 - N.B.Bahadure
-- Barry.B.Brey (Included as `intel_book.pdf`
+- Barry.B.Brey (Included as `intel_book.pdf` in the `Books` folder)
 
