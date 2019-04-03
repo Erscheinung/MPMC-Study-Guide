@@ -42,6 +42,7 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
   * [MOVS, LODS](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/String%20Instructions/String-%20MOVS%2C%20LODS.png)
   * [REP](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/String%20Instructions/String-REP.png)
   * [STOS, CMPS, SCAS](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/String%20Instructions/String-STOS%2C%20CMPS%2C%20SCAS.png)
+* [Procedures and Macros](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Proc%20and%20Macro.pdf)
 * [8255](https://github.com/Erscheinung/MPMC-Study-Guide/tree/master/Text%20Notes/8255)
   * [8255 Architecture](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20architecture.png)
     * [Parts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20architecture%20parts.png)
