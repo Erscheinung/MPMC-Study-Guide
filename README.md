@@ -20,7 +20,7 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 5. Interrupts
 ```
 
-## Topic Wise articles (in progress/currently Sessional 2 only):
+## Topic Wise articles (Note: in progress/currently Sessional 2 only):
 
 - [String Instructions (GeeksForGeeks)](https://www.geeksforgeeks.org/string-manipulation-instructions-8086-microprocessor/)
 - [Assembler Directives of 8086](https://www.ukessays.com/essays/engineering/assembler-directive-of-8086-microprocessor.php)
@@ -31,7 +31,43 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [8255 PPI(TutorialsPoint)](https://www.tutorialspoint.com/microprocessor/microprocessor_intel_8255a_programmable_peripheral_interface.htm)
 - [Interrupts](https://www.tutorialspoint.com/microprocessor/microprocessor_8086_interrupts.htm)
 
-## [Recommended!] 8086 Documentation (emu8086):
+## Text notes [Folder included] (Note: somewhat better than the articles above):
+
+* [Intel 8086 all notes/mext](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/INTEL%208086%20All%20Notes.pdf)
+* [Addressing Modes 8086](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Addressing%20Modes%208086.png)
+* [Data Transfer Instructions](https://github.com/Erscheinung/MPMC-Study-Guide/tree/master/Text%20Notes/Data%20Transfer%20Instructions)
+  * [MOV, PUSH, POP, PUSHF, POPF, XCHG](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Data%20Transfer%20Instructions/Data%20Transfer%20Instructions%201.png)
+  * [XLAT, LAHF, SAHF, LEA, LDS, LES](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Data%20Transfer%20Instructions/Data%20Transfer%20Instructions%202.png)
+* [String Instructions](https://github.com/Erscheinung/MPMC-Study-Guide/tree/master/Text%20Notes/String%20Instructions)
+  * [MOVS, LODS](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/String%20Instructions/String-%20MOVS%2C%20LODS.png)
+  * [REP](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/String%20Instructions/String-REP.png)
+  * [STOS, CMPS, SCAS](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/String%20Instructions/String-STOS%2C%20CMPS%2C%20SCAS.png)
+* [8255](https://github.com/Erscheinung/MPMC-Study-Guide/tree/master/Text%20Notes/8255)
+  * [8255 Architecture](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20architecture.png)
+    * [Parts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20architecture%20parts.png)
+  * [Control Word—I/O mode](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/Control%20Word%208255%20I:O%20Mode.png)
+  * [Control Word-BSR mode](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/Control%20Word%208255%20BSR%20Mode.png)
+  * [Data Transfer Modes](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Data%20Transfer%20Modes.png)
+    * [Mode 1]:
+      * [Mode 1 Input](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Mode%201%20Input.png)
+        * [Working](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Mode%201%20Input%20working.png)
+      * [Mode 1 Ouput](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Mode%201%20Output.png)
+        * [Working](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Mode%201%20Output%20working.png)
+    * [Mode 2]:
+      * [Mode 2 I/O](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Mode%202.png)
+        * [Working](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Mode%202%20working.png)
+   * [Interfacing with 8086](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Interfacing%20with%208086.png)
+    * [Diagram](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8255/8255%20Interfacing%20diag.png)
+* [Interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/tree/master/Text%20Notes/Interrupts)
+  * [8086 Interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/8086%20Interrupts.png)
+  * [Dedicated Interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Dedicated%20Interrupts.png)
+    * [Diagram](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Dedicated%20Interrupts%20diag.png)
+  * [Interrupt Priorities](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Interrupt%20Priorities.png)
+  * [Reserved, User Defined, H/W interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Interrupts-Reserved%2C%20User%20Def%2C%20H:W.png)
+  * [Response to Interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Response%20to%20Interrupts.png)
+    
+
+## [RECOMMENDED] emu8086 guide:
 
 - Open `emu8086 Guide` Folder and open `index.html`
 
