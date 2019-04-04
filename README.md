@@ -67,6 +67,9 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
   * [Reserved, User Defined, H/W interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Interrupts-Reserved%2C%20User%20Def%2C%20H:W.png)
   * [Response to Interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Response%20to%20Interrupts.png)
     
+## Handwritten Notes till before 8255
+
+[GDrive Link](https://drive.google.com/file/d/1IsQuWAJervhr3B3q3A6LMqpetuzHU-0M/view?usp=drivesdk)
 
 ## [RECOMMENDED] emu8086 guide:
 
