@@ -70,7 +70,7 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 
 ## [RECOMMENDED] emu8086 guide:
 
-- Open `emu8086 Guide` Folder and open `index.html`
+- Open `emu8086 Guide` Folder (when downloaded) and open `index.html`
 
 ## Miscellaneous:
 
