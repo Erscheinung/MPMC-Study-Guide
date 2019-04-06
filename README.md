@@ -14,10 +14,12 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 
 ```sh
 1. String Instructions
-2. Branching Instructions
-3. Procedures and Macros
-4. 8255 PPI
-5. Interrupts
+2. String prefix Instructions
+3. Branching Instructions
+4. Assembler Directives
+5. Procedures and Macros (including passing parameters)
+6. 8255 PPI
+7. Interrupts
 ```
 
 ## Topic Wise articles (Note: in progress/currently Sessional 2 only):
