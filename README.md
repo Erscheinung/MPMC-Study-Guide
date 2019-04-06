@@ -81,7 +81,8 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 
 ## Lab Programs:
 
-- [Lab File Programs GDrivelink](https://drive.google.com/file/d/1Fp4B4Rhng4_bpR-exmP77kkvFFW8bDli/view?usp=sharing)
+- [Lab File Programs GDrive link](https://drive.google.com/file/d/1Fp4B4Rhng4_bpR-exmP77kkvFFW8bDli/view?usp=sharing)
+- [Lab File Part 2 (from arrays) GDrive](https://drive.google.com/file/d/1c30F-f36VO11U2AbhJ6Ls0dbz5Kklljb/view?usp=sharing)
 
 ## Books:
 
