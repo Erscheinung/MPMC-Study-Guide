@@ -33,6 +33,9 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [8255 PPI(TutorialsPoint)](https://www.tutorialspoint.com/microprocessor/microprocessor_intel_8255a_programmable_peripheral_interface.htm)
 - [Interrupts](https://www.tutorialspoint.com/microprocessor/microprocessor_8086_interrupts.htm)
 
+- [8259 initialisation](http://www.eeeguide.com/programming-8259/)
+- [8259 cheatsheer](http://www.thesatya.com/8259.html)
+
 ## Text notes [Folder included] (Note: somewhat better than the articles above):
 
 * [Intel 8086 all notes/mext](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/INTEL%208086%20All%20Notes.pdf)
