@@ -34,7 +34,8 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [Interrupts](https://www.tutorialspoint.com/microprocessor/microprocessor_8086_interrupts.htm)
 
 - [8259 initialisation](http://www.eeeguide.com/programming-8259/)
-- [8259 cheatsheer](http://www.thesatya.com/8259.html)
+- [8259 cheatsheet](http://www.thesatya.com/8259.html)
+- [8259 notes](https://pdos.csail.mit.edu/6.828/2009/readings/hardware/8259A.pdf)
 
 ## Text notes [Folder included] (Note: somewhat better than the articles above):
 
