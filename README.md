@@ -94,8 +94,8 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
   * [Architecture](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/8259%20Architecture.png)
   * [Registers](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/8259%20Registers.png)
   * Priority Modes
-   * [Part 1](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes.png)
-   * [Part 2](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes%202.png)
+    * [Part 1](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes.png)
+    * [Part 2](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes%202.png)
   * [Initialisation](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Initialisation%20of%208259.png)
    * [Detailed Initialisation](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Detailed%20Initialisation.png)
   * [Interfacing Single 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Interfacing%20Single%208259.png)
