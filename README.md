@@ -9,14 +9,14 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [8086 Microprocessor Complete Tutorials](https://www.youtube.com/playlist?list=PLc21Sqj4D8SSRpPFZLL6XvS7aGFs3HQ4H)
 - [8086 Microprocessor](https://www.youtube.com/playlist?list=PL3CV6a8uJdgYSFq8n_6kvTMe7m2PCKGfs)
 
-### [Question and Answers Practice](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Books/Understanding%208085_8086%20Microprocessors%20and%20Peripheral%20ICs%20%20(Sen).pdf)
+### Question and Answers Practice: [Solved Questions](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Books/Understanding%208085_8086%20Microprocessors%20and%20Peripheral%20ICs%20%20(Sen).pdf)
 
 ## Question Papers:
 
-- [Sessional 1 (2017)]()
+- [Sessional 1 (2017)](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Question%20Papers/Sess%201%20'17.pdf)
 - [Sessional 2 (2017)](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Question%20Papers/Sess%202%20'17.pdf)
 - [ETE 2017](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Question%20Papers/ETE%202017.pdf)
-- [Sessional 1 (2018)]()
+- [Sessional 1 (2018)](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Question%20Papers/Sess%201%20'18.pdf)
 - [Sessional 2 (2018)](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Question%20Papers/Sess%202%20'18.pdf)
 
 ### End Semester Syllabus:
@@ -94,24 +94,29 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
   * [Architecture](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/8259%20Architecture.png)
   * [Registers](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/8259%20Registers.png)
   * Priority Modes
-   * [Part 1](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes.png)
-   * [Part 2](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes%202.png)
+    * [Part 1](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes.png)
+    * [Part 2](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Priority%20Modes%202.png)
   * [Initialisation](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Initialisation%20of%208259.png)
    * [Detailed Initialisation](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Detailed%20Initialisation.png)
   * [Interfacing Single 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Interfacing%20Single%208259.png)
   * [Interfacing Cascaded 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Interfacing%20Cascaded%208259.png)
    * [Master/Slave config](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Master:Slave%20config.png)
   * Initialisation Questions:
+<<<<<<< HEAD
   	* [Single 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20single%208259%20question.png)
    	* [Cascaded 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20cascaded%208259%20question.png)
+=======
+    * [Single 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20single%208259%20question.png)
+    * [Cascaded 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20cascaded%208259%20question.png)
+>>>>>>> cce14f77bbad0bef406806846eadaf2ac97a46ac
   * [Intel Sheet](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/8259A%20Intel%20Sheet.pdf)
 * 8254:
   * [Architecture](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Architecture.png)
-   * [Detailed](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Detailed%20Architecture.png)
+    * [Detailed](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Detailed%20Architecture.png)
   * [Independent Counters](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Independent%20Counters.png)
   * Timer Modes:
-   * [0,1,2](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Timer%20modes%20-%20%200%20%7C%201%20%7C%202.png)
-   * [3,4,5](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Timer%20modes%20-%203%20%7C%204%20%7C%205.png)
+    * [0,1,2](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Timer%20modes%20-%20%200%20%7C%201%20%7C%202.png)
+    * [3,4,5](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Timer%20modes%20-%203%20%7C%204%20%7C%205.png)
   * [Questions](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Questions.png)
 * 8051: 
   * [required knowledge for ETE](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Books/MC%208051-Mazidi.pdf)
