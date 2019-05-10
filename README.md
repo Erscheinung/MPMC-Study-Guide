@@ -9,7 +9,7 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [8086 Microprocessor Complete Tutorials](https://www.youtube.com/playlist?list=PLc21Sqj4D8SSRpPFZLL6XvS7aGFs3HQ4H)
 - [8086 Microprocessor](https://www.youtube.com/playlist?list=PL3CV6a8uJdgYSFq8n_6kvTMe7m2PCKGfs)
 
-### [Question and Answers Practice](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Books/Understanding%208085_8086%20Microprocessors%20and%20Peripheral%20ICs%20%20(Sen).pdf)
+### Question and Answers Practice: [Solved Questions](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Books/Understanding%208085_8086%20Microprocessors%20and%20Peripheral%20ICs%20%20(Sen).pdf)
 
 ## Question Papers:
 
