@@ -102,8 +102,8 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
   * [Interfacing Cascaded 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Interfacing%20Cascaded%208259.png)
    * [Master/Slave config](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/Master:Slave%20config.png)
   * Initialisation Questions:
-   * [Single 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20single%208259%20question.png)
-   * [Cascaded 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20cascaded%208259%20question.png)
+  	* [Single 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20single%208259%20question.png)
+   	* [Cascaded 8259](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/init%20cascaded%208259%20question.png)
   * [Intel Sheet](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8259/8259A%20Intel%20Sheet.pdf)
 * 8254:
   * [Architecture](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/8254/Architecture.png)
