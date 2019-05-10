@@ -10,16 +10,22 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [8086 Microprocessor Complete Tutorials](https://www.youtube.com/playlist?list=PLc21Sqj4D8SSRpPFZLL6XvS7aGFs3HQ4H)
 - [8086 Microprocessor](https://www.youtube.com/playlist?list=PL3CV6a8uJdgYSFq8n_6kvTMe7m2PCKGfs)
 
-### Sessional 2 Syllabus:
+### End Semester Syllabus:
 
 ```sh
-1. String Instructions
-2. String prefix Instructions
-3. Branching Instructions
-4. Assembler Directives
-5. Procedures and Macros (including passing parameters)
-6. 8255 PPI
-7. Interrupts
+1. 8086 Architecture
+2. Addressing modes
+3. Flags
+4. String Instructions
+5. String prefix Instructions
+6. Branching Instructions
+7. Assembler Directives
+8. Procedures and Macros (including passing parameters)
+9. 8255 PPI
+10. Interrupts
+11. 8259 PIC
+12. 8254
+13. 8051 Microcontroller 
 ```
 
 ## Topic Wise articles (Note: in progress/currently Sessional 2 only):
