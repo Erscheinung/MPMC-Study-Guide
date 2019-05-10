@@ -10,6 +10,8 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [8086 Microprocessor Complete Tutorials](https://www.youtube.com/playlist?list=PLc21Sqj4D8SSRpPFZLL6XvS7aGFs3HQ4H)
 - [8086 Microprocessor](https://www.youtube.com/playlist?list=PL3CV6a8uJdgYSFq8n_6kvTMe7m2PCKGfs)
 
+### [Question and Answers Practice]()
+
 ### End Semester Syllabus:
 
 ```sh
@@ -28,7 +30,7 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 13. 8051 Microcontroller 
 ```
 
-## Topic Wise articles (Note: in progress/currently Sessional 2 only):
+## Topic Wise articles:
 
 - [String Instructions (GeeksForGeeks)](https://www.geeksforgeeks.org/string-manipulation-instructions-8086-microprocessor/)
 - [Assembler Directives of 8086](https://www.ukessays.com/essays/engineering/assembler-directive-of-8086-microprocessor.php)
@@ -37,11 +39,14 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 - [Macros](https://www.tutorialspoint.com/assembly_programming/assembly_macros.htm)
 - [8255 PPI(GeeksForGeeks)](https://www.geeksforgeeks.org/programmable-peripheral-interface-8255/)
 - [8255 PPI(TutorialsPoint)](https://www.tutorialspoint.com/microprocessor/microprocessor_intel_8255a_programmable_peripheral_interface.htm)
+- [8255 slides]()
 - [Interrupts](https://www.tutorialspoint.com/microprocessor/microprocessor_8086_interrupts.htm)
-
 - [8259 initialisation](http://www.eeeguide.com/programming-8259/)
 - [8259 cheatsheet](http://www.thesatya.com/8259.html)
 - [8259 notes](https://pdos.csail.mit.edu/6.828/2009/readings/hardware/8259A.pdf)
+- [8259 slides]()
+- [8254 Intel Sheet](http://www.scs.stanford.edu/10wi-cs140/pintos/specs/8254.pdf)
+- [8254 slides]()
 
 ## Text notes [Folder included] (Note: somewhat better than the articles above):
 
@@ -78,6 +83,28 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
   * [Interrupt Priorities](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Interrupt%20Priorities.png)
   * [Reserved, User Defined, H/W interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Interrupts-Reserved%2C%20User%20Def%2C%20H:W.png)
   * [Response to Interrupts](https://github.com/Erscheinung/MPMC-Study-Guide/blob/master/Text%20Notes/Interrupts/Response%20to%20Interrupts.png)
+* 8259:
+  * [Architecture]()
+  * [Registers]()
+  * Priority Modes
+   * [Part 1]()
+   * [Part 2]()
+  * [Initialisation]()
+   * [Detailed Initialisation]()
+  * [Interfacing Single 8259]()
+  * [Interfacing Cascaded 8259]()
+   * [Master/Slave config]()
+  * [Initialisation Questions]()
+  * [Intel Sheet]()
+* 8254:
+  * [Architecture]()
+   * [Detailed]()
+  * [Independent Counters]()
+  * Timer Modes:
+   * [0,1,2]()
+   * [3,4,5]()
+  * [Questions]()
+* [8051: required knowledge for ETE]()
     
 ## Handwritten Notes till before 8255
 
