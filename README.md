@@ -30,11 +30,11 @@ Git repository by @jacobjohn2016 for [8086 programs](https://github.com/jacobjoh
 6. Branching Instructions
 7. Assembler Directives
 8. Procedures and Macros (including passing parameters)
-9. 8255 PPI
+9. 8255 PPI: Programmable Parallel ports and Handshake Input/ Output, Interrupts and Interrupt Responses
 10. Interrupts
-11. 8259 PIC
-12. 8254
-13. 8051 Microcontroller 
+11. 8259 PIC: Software interrupts, Features, Block diagram, 8259 Priority Interrupt Controller
+12. 8254: Software-Programmable Timer/counter; Software interrupts, Features, Block diagram, Pin description and Cascading, Control word designing
+13. 8051 Microcontroller: Introduction to microcontroller, Difference Between microcontroller and microprocessor, Criteria for choosing microcontroller, 8051 block diagram
 ```
 
 ## Topic Wise articles:
